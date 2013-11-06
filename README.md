@@ -1,2 +1,4 @@
-aventuriers-ajax2
-=================
+Aventuriers
+===========
+
+TP d'adaptation du jeu "Les aventuriers du rail"
